@@ -10,7 +10,7 @@ This is a test repository for learning how to make PRs.
 
 ## Installation
 
-Clone this repo and you're good to go!
+Clone this repository and you're ready to get started!
 
 ```bash
 git clone https://github.com/gracefu7/my-first-repo.git
